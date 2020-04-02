@@ -8,5 +8,5 @@ Take that and put it into the program on line 3 where data is.
 
 Now you can automate voting for the xxl freshman
 
-I created 2 version vote_once.py (runs once) and vote_unlimited.py (loops infinitely)
-When done with vote_unlimited.py press control + c to end the program
+I created 2 version vote_once.py (runs once) and vote_infinite.py (loops infinitely)
+When done with vote_infinite.py press control + c to end the program
