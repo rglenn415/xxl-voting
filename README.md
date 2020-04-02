@@ -1,7 +1,7 @@
 All you have to do is find your favorite artist, open inspect elements, go to network, select XHR, vote then you will see the data sent by the vote
 
 example:
-{"action": "media_poll_vote", "poll_id": "10523173", "post_id": 884664, "answer_id": "48703415"}
+{"action": "media_poll_vote", "poll_id": "10523173", "post_id": 884664, "answer_id": "48703337"}
 
 
 Take that and put it into the program on line 3 where data is.
